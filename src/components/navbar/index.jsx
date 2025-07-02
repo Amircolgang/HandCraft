@@ -1,10 +1,11 @@
+import Image from "next/image"
 const Navbar = ({}) => {
   return (
     <>
         <div>
             <div>
                 <div>
-                    <img src="/public/icon/Logo.svg" alt="" />
+                <Image src="/icon/Logo.svg" alt="Logo" width={100} height={100} />
                 </div>
             </div>  
 
