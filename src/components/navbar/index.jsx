@@ -3,9 +3,14 @@ const Navbar = ({}) => {
     <>
         <div>
             <div>
+                <div>
+                    <img src="/public/icon/" alt="" />
+                </div>
             </div>  
-            
-              
+
+              <div>
+
+              </div>
         </div>   
     </>
   )
