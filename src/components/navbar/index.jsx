@@ -4,7 +4,7 @@ const Navbar = ({}) => {
         <div>
             <div>
                 <div>
-                    <img src="/public/icon/" alt="" />
+                    <img src="/public/icon/Logo.svg" alt="" />
                 </div>
             </div>  
 
