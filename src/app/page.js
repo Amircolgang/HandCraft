@@ -1,4 +1,4 @@
-import "global.css"
+
 
 export default function Page (params) {
   return(
